@@ -1,3 +1,3 @@
 # Practice-Arena
 
-This the field where my android involved projects will be based
+Trying anything that will work here
